@@ -1,0 +1,25 @@
+{
+  "name": "debut_serv_backend",
+  "version": "1.0.0",
+  "description": "tutorial for the backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deddaa/debut_serv_backend.git"
+  },
+  "author": "dedda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deddaa/debut_serv_backend/issues"
+  },
+  "homepage": "https://github.com/deddaa/debut_serv_backend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  }
+}
